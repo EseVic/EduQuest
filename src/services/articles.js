@@ -1,6 +1,5 @@
 import axios from "axios";
-const BASE_URL = "https://inquirehub.onrender.com/api/articles";
-
+const BASE_URL = "https://eduquest-be.onrender.com/api/articles";
 let token = null;
 
 export const setToken = (newToken) => {

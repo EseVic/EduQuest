@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "https://inquirehub.onrender.com/api/users";
+const BASE_URL = "https://eduquest-be.onrender.com/api/users";
 
 export const createNewUser = async (credentials) => {
   const response = await axios.post(BASE_URL, credentials);

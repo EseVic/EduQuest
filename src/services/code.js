@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "https://inquirehub.onrender.com/api/code";
+const BASE_URL = "https://eduquest-be.onrender.com/api/code";
 
 let token = null;
 

@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "https://inquirehub.onrender.com/api/paystack/pay";
+const BASE_URL = "https://eduquest-be.onrender.com/api/paystack/pay";
 
 let token = null;
 
