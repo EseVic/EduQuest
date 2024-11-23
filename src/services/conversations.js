@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "https://eduquest-be.onrender.com/conversations";
+const BASE_URL = "https://eduquest-be.onrender.com/api/conversations";
 
 let token = null;
 
