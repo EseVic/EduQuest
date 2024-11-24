@@ -55,7 +55,7 @@ const Footer = () => {
         ))}
       </div>
       <p className="text-sm text-gray-400">
-        Copyright ©{new Date().getFullYear()} Veecode
+        Copyright ©{new Date().getFullYear()} EduQuest
       </p>
 
       <div className="absolute flex flex-col items-center bottom-3 right-0 md:bottom-6 md:right-12 px-6 gap-y-4 animate-bounce">
