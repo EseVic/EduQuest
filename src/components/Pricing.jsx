@@ -17,7 +17,7 @@ const Pricing = () => {
             </h4>
             <p className="font-semibold text-base text-gray-300 mb-2 pb-2 border-b border-fuchsia-400">
               <span className="text-lg inline-block text-transparent text-center bg-gradient-to-r from-fuchsia-500 to-blue-500 bg-clip-text">
-                {card.price}$ /
+              $ {card.price}/
               </span>{' '}
               month
             </p>
